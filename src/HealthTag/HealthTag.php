@@ -55,7 +55,7 @@ class HealthTag extends PluginBase implements Listener{
 						$this->renderNameTag($player);
 					}
 				}else{
-					$sender->sendMessage("You don't have permission to use this command");
+					$sender->sendMessage(TextFormat::RED."You don't have permission to use this command");
 				}
 				return true;
 			break;
