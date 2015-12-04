@@ -6,7 +6,7 @@ description: Shows Player's Heath beside NameTag
 main: HealthTag\HealthTag
 
 commands:
- hs:
+ ht:
   default: op
-  description: "Enable or disable health stats"
+  description: "Enable or disable healthtag"
   usage: "/ht"
