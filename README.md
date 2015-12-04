@@ -1,6 +1,6 @@
 # HealthTag
 
-Show your Health Besides Nametag in PocketMine. 
+Show your Health Beside Nametag in PocketMine. 
 (Live on ConflictPE PVP Server)
 
 # Command
